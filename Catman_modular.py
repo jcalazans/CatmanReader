@@ -109,7 +109,6 @@ def plot(data_time, data, channel_selected, unit):
     plt.show()
 
 # def get_equivalent_data(data_comparison, outlier_index):
-#
 #     for i in outlier_index:
 #         data
 
